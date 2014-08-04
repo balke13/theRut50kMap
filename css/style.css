@@ -1,0 +1,9 @@
+body{
+	background-color: #ffffff;
+}
+
+div#map{
+	width: 75%;
+	height: 95%;
+	margin: 0 auto;
+}
